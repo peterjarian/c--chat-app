@@ -1,0 +1,14 @@
+/home/peter/projects/c#-chat-app/ChatApp.Frontend/bin/Debug/net8.0/ChatApp.Frontend
+/home/peter/projects/c#-chat-app/ChatApp.Frontend/bin/Debug/net8.0/ChatApp.Frontend.deps.json
+/home/peter/projects/c#-chat-app/ChatApp.Frontend/bin/Debug/net8.0/ChatApp.Frontend.runtimeconfig.json
+/home/peter/projects/c#-chat-app/ChatApp.Frontend/bin/Debug/net8.0/ChatApp.Frontend.dll
+/home/peter/projects/c#-chat-app/ChatApp.Frontend/bin/Debug/net8.0/ChatApp.Frontend.pdb
+/home/peter/projects/c#-chat-app/ChatApp.Frontend/obj/Debug/net8.0/ChatApp.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/projects/c#-chat-app/ChatApp.Frontend/obj/Debug/net8.0/ChatApp.Frontend.AssemblyInfoInputs.cache
+/home/peter/projects/c#-chat-app/ChatApp.Frontend/obj/Debug/net8.0/ChatApp.Frontend.AssemblyInfo.cs
+/home/peter/projects/c#-chat-app/ChatApp.Frontend/obj/Debug/net8.0/ChatApp.Frontend.csproj.CoreCompileInputs.cache
+/home/peter/projects/c#-chat-app/ChatApp.Frontend/obj/Debug/net8.0/ChatApp.Frontend.dll
+/home/peter/projects/c#-chat-app/ChatApp.Frontend/obj/Debug/net8.0/refint/ChatApp.Frontend.dll
+/home/peter/projects/c#-chat-app/ChatApp.Frontend/obj/Debug/net8.0/ChatApp.Frontend.pdb
+/home/peter/projects/c#-chat-app/ChatApp.Frontend/obj/Debug/net8.0/ChatApp.Frontend.genruntimeconfig.cache
+/home/peter/projects/c#-chat-app/ChatApp.Frontend/obj/Debug/net8.0/ref/ChatApp.Frontend.dll
